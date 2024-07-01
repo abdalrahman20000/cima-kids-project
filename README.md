@@ -37,7 +37,7 @@ https://github.com/developing-team
 https://github.com/developing-team/cima-kids
 
 ## Live URL 
-https://developing-team.github.io/cima-kids/
+developing-team.github.io/cima-kids/
 
 
 
