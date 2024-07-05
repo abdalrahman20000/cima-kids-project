@@ -12,9 +12,13 @@ We created some unique styles for Cima Kids by using HTML, CSS, JS, then we crea
 3. Pagination on the home page.
 4. Search bar and filter by Category on the Catalogue page.
 
-
-# Scrum master : Abd-alrahman ata
-
+## Our Team 
+1. Scrum master : Abd-alrahman ata
+2. Product Owner : Abdelraouf Yousef
+3. QA : Islam Omer
+4. Developer : Ata Alshayeb
+5. Developer : Forat Thalji
+6. Developer : Othman Daoud
 
 ## Tools we used 
 1. Html
@@ -34,9 +38,7 @@ https://www.figma.com/design/S0LTp0Ei0aaqR4mCZw6F4s/Movie-Website-(Community)?no
 https://github.com/developing-team
 
 ### You can see Cima Kids Website from here : 
-
-https://developing-team.github.io/cima-kids/
-
+https://github.com/developing-team/cima-kids
 
 
 
